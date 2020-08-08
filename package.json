@@ -1,0 +1,14 @@
+{
+  "name": "digitalocean_node_nginx",
+  "version": "1.0.0",
+  "description": "Node Js (Express Js) On Digital Ocean With Nginx Reverse Porxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rebelshiv",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
